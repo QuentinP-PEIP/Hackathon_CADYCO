@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    background-color: rgb(87, 2, 61);
+  }
+  
+  .demo-box {
+    display: flex; 
+    text-align: center;
+    margin-bottom: 2rem;
+    justify-content: space-around;
+    background-color: white;
+  }
+  
+h1 {
+    background-color: rgb(87, 2, 61);
+    color: white;
+    text-decoration: none;
+    font-family: "Lucida Console";
+    text-align: center;
+}
+
+h3 {
+    background-color: rgb(87, 2, 61);
+    color: white;
+    text-decoration: none;
+    font-family: "Lucida Console";
+    text-align: center;
+}
+
+  .button {
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-family: "Lucida Console";
+    background:#A23A7d;
+    color: rgb(255, 255, 255);
+    width: 25%;
+    height: auto;
+    padding: 5vh;
+    margin-top: 20vh;
+    margin-bottom: 20vh;
+}
+
+
+header {
+    height: 100px;
+    background-color: rgb(87, 2, 61);
+}

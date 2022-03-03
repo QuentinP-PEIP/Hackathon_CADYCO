@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+header {
+    background-color: rgb(87, 2, 61);
+    display: flex;
+    justify-content: space-around;
+}
+
+
+
+header a {
+    padding : 6vh 4vw;
+    width : 50%;
+    color: white;
+    text-decoration: none;
+    font-family: "Lucida Console";
+    text-align: center;
+    
+
+}
+
+header a:hover {
+    background:#A23A7d;
+}
+
+iframe {
+    height: 80vh;
+    width: 96vw;
+    margin : 2vw;
+}
+
+.hider {
+    z-index: 1000;
+    height: 150px;
+    transform: translateY(-72px);
+    background-color: rgb(87, 2, 61);
+  }
