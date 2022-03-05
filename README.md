@@ -1,0 +1,1 @@
+Partant des données fournies par les organisateurs, le but était de développer une solution permettant aux demandeurs d'emplois d'avoir accès aux offres ainsi qu'à des diagrammes mettant en valeur leurs caractéristiques.
